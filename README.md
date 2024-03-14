@@ -5,10 +5,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/joris-bourguet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joris-bourguet" height="30" width="40" /></a>
-<a href="https://instagram.com/jorisbourguet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jorisbourguet" height="30" width="40" /></a>
-<a href="https://jorisbourguet.fr" target="blank">Portfolio</a>
-<a href="mailto:contact@jorisbourguet.fr" target="blank">contact@jorisbourguet.fr</a>
+<a href="https://linkedin.com/in/joris-bourguet" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joris-bourguet" height="30" width="40" /></a>
+</p>
+<p align="left">
+<a href="https://instagram.com/jorisbourguet" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jorisbourguet" height="30" width="40" /></a>
+</p>
+<p align="left">
+<a href="https://jorisbourguet.fr" target="_blank">Portfolio</a>
+</p>
+<p align="left">
+<a href="mailto:contact@jorisbourguet.fr" target="_blank">contact@jorisbourguet.fr</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
