@@ -1,5 +1,5 @@
 <h1 align="center">Hello, Joris BOURGUET</h1>
-<h3 align="center">Développeur Full-Stack React/Redux - Symfony - Laravel / micro-entrepreneur</h3>
+<h3 align="center">Développeur Full-Stack | React - Redux | Symfony - Laravel | Freelance</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joris-bourguet&label=Profile%20views&color=0e75b6&style=flat" alt="joris-bourguet" /> </p>
 
